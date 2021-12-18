@@ -7,3 +7,6 @@ The dataset as well as the trained models are zipped, they must be unzipped to a
 The preprocessed data set files are not included due to large file size, you must edit the appropriate functions to preprocess any data. These are found in asl.py (load_train)
 
 Please email me at acengiz@ryerson.ca if you have any issues running the code
+
+
+Please find the dataset and trained models from the Google Drive Link provided in the report
